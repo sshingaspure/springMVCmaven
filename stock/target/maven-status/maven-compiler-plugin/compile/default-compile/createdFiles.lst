@@ -1,0 +1,9 @@
+com\stock\dao\StockDAO.class
+com\stock\beans\Customer.class
+com\stock\dao\SharesMapper.class
+com\stock\beans\Company.class
+com\stock\dao\StockJDBCTemplate.class
+com\stock\dao\CustomerMapper.class
+com\stock\beans\Shares.class
+com\stock\dao\StudentMapper.class
+com\stock\controller\StockController.class
